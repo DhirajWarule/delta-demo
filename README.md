@@ -1,2 +1,2 @@
 # delta-demo
-this is a demo program
+this is a demo program.
